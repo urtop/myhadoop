@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive_demo/hive_demo.iml" filepath="$PROJECT_DIR$/hive_demo/hive_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapreducer/mapreducer.iml" filepath="$PROJECT_DIR$/mapreducer/mapreducer.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhadoop.iml" filepath="$PROJECT_DIR$/myhadoop.iml" />
     </modules>
